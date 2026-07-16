@@ -1,5 +1,6 @@
-<td> <img src="https://media.giphy.com/media/KCEnFyalj21FhCoTel/giphy.gif">
-</td>
+<p align="center">
+  <img src="gif.gif" width="400">
+</p>
 
 <h1 data-importer="text" align="center">HELLOWW</h1>
 
