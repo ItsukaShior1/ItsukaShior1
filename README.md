@@ -1,5 +1,6 @@
 <h1 data-importer="text" align="center">HELLOWW</h1>
 
+![Denia](https://media.giphy.com/media/KCEnFyalj21FhCoTel/giphy.gif)
 ###
 
 <h5 data-importer="text" align="left">Hanya Mahasewa Biasa</h5>
@@ -40,7 +41,7 @@
 </div>
 
 ###
-![Denia](https://media.giphy.com/media/KCEnFyalj21FhCoTel/giphy.gif)
+
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ItsukaShior1]/[ItsukaShior1]/output/[game-name]-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ItsukaShior1]/[ItsukaShior1]/output/[game-name]-contribution-graph.svg">
