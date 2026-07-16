@@ -1,6 +1,7 @@
 <h1 data-importer="text" align="center">HELLOWW</h1>
 
-![Denia](https://media.giphy.com/media/KCEnFyalj21FhCoTel/giphy.gif)
+<!-- ![Denia](https://media.giphy.com/media/KCEnFyalj21FhCoTel/giphy.gif) -->
+![GIF](https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif)
 ###
 
 <h5 data-importer="text" align="left">Hanya Mahasewa Biasa</h5>
