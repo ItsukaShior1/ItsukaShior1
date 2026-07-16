@@ -4,7 +4,7 @@
 
 <h5 data-importer="text" align="left">Hanya Mahasewa Biasa</h5>
 
-![Denia](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI1NW82dWpwdGRlOTBycTF1MGdwYnY1c2xoOWozaG1jMmF0bmVreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KCEnFyalj21FhCoTel/giphy.gif)
+
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -40,12 +40,12 @@
 </div>
 
 ###
-
-<picture>
+![Denia](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI1NW82dWpwdGRlOTBycTF1MGdwYnY1c2xoOWozaG1jMmF0bmVreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KCEnFyalj21FhCoTel/giphy.gif)
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ItsukaShior1]/[ItsukaShior1]/output/[game-name]-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ItsukaShior1]/[ItsukaShior1]/output/[game-name]-contribution-graph.svg">
     <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[ItsukaShior1]/[ItsukaShior1]/output/[game-name]-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 <!--
