@@ -40,7 +40,7 @@
 </div>
 
 ###
-![Denia](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI1NW82dWpwdGRlOTBycTF1MGdwYnY1c2xoOWozaG1jMmF0bmVreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KCEnFyalj21FhCoTel/giphy.gif)
+![Denia](https://media.giphy.com/media/KCEnFyalj21FhCoTel/giphy.gif)
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ItsukaShior1]/[ItsukaShior1]/output/[game-name]-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ItsukaShior1]/[ItsukaShior1]/output/[game-name]-contribution-graph.svg">
